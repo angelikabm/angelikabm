@@ -17,7 +17,7 @@
 
 <h2>📫 Connect with me:</h2>
 
-[<img align="left" alt="An | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [<img align="left" alt="An | LinkedIn" width="64px" src="https://i.imgur.com/y1gnjRG.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/angelikabm/
 
