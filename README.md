@@ -2,18 +2,22 @@
 
 <h2>👩🏻‍💻 Cybersecurity Projects:</h2>
 
-- <b>File permissions in Linux</b>
-  - [Use Linux commands to manage file permissions](https://github.com/angelikabm/linux-file-permissions)
-- <b>SQL query filtering</b>
-  - [Apply filters to SQL queries](https://github.com/angelikabm/sql-query-filtering)
-- <b>Python</b>
-  - [Update a file through a Python algorithm](https://github.com/angelikabm/python-file-update-algorithm)
-  
+- <b>📁 File Permissions in Linux</b>
+  - [🐧 Managed file permissions using Linux commands.](https://github.com/angelikabm/linux-file-permissions)
 
-<h2>📃 Certifications</h2>
+- <b>🔍 SQL Query Filtering</b>
+  - [💾 Applied filters to SQL queries to extract specific security data.](https://github.com/angelikabm/sql-query-filtering)
 
-- <b>[Google Cybersecurity Professional](https://coursera.org/share/38c5cce71036340e09bcc415e4d54ed9)</b>
+- <b>🐍 Python Programming</b>
+  - [⚙️ Developed a Python algorithm to automate file updates.](https://github.com/angelikabm/python-file-update-algorithm)
 
+- <b>🛡️ NIST CSF Incident Response</b>
+  - [📝 Utilized the NIST Cybersecurity Framework to respond to a security incident.](https://github.com/angelikabm/python-file-update-algorithm) 
+
+<h2>📃 Certification</h2>
+
+- <b>[🎓 Google Cybersecurity Professional Certificate](https://coursera.org/share/38c5cce71036340e09bcc415e4d54ed9)</b><br/>
+_Issued by Google via Coursera_
 
 <h2>📫 Connect with me:</h2>
 
