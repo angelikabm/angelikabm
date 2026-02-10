@@ -14,7 +14,7 @@
 - <b>🛡️ NIST CSF Incident Response</b>
   - [📝 Utilized the NIST Cybersecurity Framework to respond to a security incident.](https://github.com/angelikabm/nist-csf-incident-response) 
 
-<h2>📃 Certification</h2>
+<h2>📃 Certification:</h2>
 
 - <b>🎓 Google Cybersecurity Professional Certificate</b><br/>
 _Issued by Google via Coursera_ • [Verify via Credly](https://www.credly.com/badges/74923282-ffc7-47a7-91f1-f829a178a967/public_url)</b><br/>
