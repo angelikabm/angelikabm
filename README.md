@@ -11,8 +11,9 @@
 - <b>🐍 Python Programming</b>
   - [⚙️ Developed a Python algorithm to automate file updates.](https://github.com/angelikabm/python-file-update-algorithm)
 
-- <b>🛡️ NIST CSF Incident Response</b>
+<!--- <b>🛡️ NIST CSF Incident Response</b>
   - [📝 Utilized the NIST Cybersecurity Framework to respond to a security incident.](https://github.com/angelikabm/nist-csf-incident-response) 
+-->
 
 <h2>📃 Certification:</h2>
 
